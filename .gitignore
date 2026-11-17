@@ -1,0 +1,11 @@
+.gradle/
+.kotlin/
+**/build/
+.idea/
+local.properties
+outputs/
+delivery/*.apk
+delivery/*.csv
+delivery/*-source.zip
+*.jks
+*.keystore
